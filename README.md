@@ -12,7 +12,8 @@ The Evaluation Metrics is based on their classification RMSE and R2
 
 * Feature
 
-The dataset feature include; 
+The dataset feature include; Store, Dept,	Date,	Weekly_Sales,	IsHoliday, Temperature, Fuel_Price,	CPI, Unemployment, Type, Size, Week,
+Month,	Year
 
 * Modelling
 
